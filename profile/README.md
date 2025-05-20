@@ -1,6 +1,4 @@
-# [EN]
-
-# Hello! 👋
+# [EN] Hello! 👋
 
 This organization aims to store and organize work carried out by members of the Unmanned Systems Research Laboratory (USRL) research group.
 
@@ -30,9 +28,7 @@ Send us an e-mail: edison.pignaton@ufrgs.br
 
 Av. Osvaldo Aranha, 103 - Centro Histórico, Porto Alegre - RS, 90035-190. 
 
-# [BR]
-
-# Olá! 👋
+# [BR] Olá! 👋
 
 Esta organização tem como objetivo armazenar e organizar trabalhos realizados por integrantes do grupo de pesquisa Unmanned Systems Research Laboratory (USRL).
 
